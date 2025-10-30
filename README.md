@@ -33,7 +33,7 @@ No central authority or game server is needed — everything runs transparently 
 ## 🔗 Deployed Smart Contract
 
 **Network:** Ethereum / Testnet (e.g., Sepolia)  
-**Deployed Contract:** [0x804a20f8351eefd2751c6487496b960b5654f94b](https://celo-alfajores.blockscout.com/address/0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8) 
+**Deployed Contract:** [https://celo-alfajores.blockscout.com/address/0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8](0x804a20f8351eefd2751c6487496b960b5654f94b) 
 
 
 ---
