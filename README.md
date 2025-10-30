@@ -1,9 +1,9 @@
 
-![transaction details screenshot](Screenshot(2).png)
 
 
 
 
+<img width="1920" height="1080" alt="Screenshot(2)" src="https://github.com/user-attachments/assets/c407ccd3-e5bc-4a3c-ab9f-6c9817a51bfa" />
 
 # 🎮 RockPaperScissors Smart Contract
 
