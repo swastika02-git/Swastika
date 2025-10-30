@@ -1,3 +1,10 @@
+
+![transaction details screenshot](Screenshot(2).png)
+
+
+
+
+
 # 🎮 RockPaperScissors Smart Contract
 
 ## 🧩 Project Description
